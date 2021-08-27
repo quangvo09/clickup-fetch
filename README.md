@@ -11,7 +11,7 @@ go get github.com/quangvo09/clickup-fetch
 ### Execute
 
 ```
-clickup-fetch xxx
+clickup-fetch xxx, yyy, zzz
 ```
 
 ### Response
